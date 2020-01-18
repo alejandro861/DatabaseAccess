@@ -1,0 +1,5 @@
+D:\Progra II\DatabaseAccess\DatabaseAccess\DatabaseAccess\bin\Debug\netcoreapp3.0\DatabaseAccess.deps.json
+D:\Progra II\DatabaseAccess\DatabaseAccess\DatabaseAccess\bin\Debug\netcoreapp3.0\DatabaseAccess.dll
+D:\Progra II\DatabaseAccess\DatabaseAccess\DatabaseAccess\obj\Debug\netcoreapp3.0\DatabaseAccess.csprojAssemblyReference.cache
+D:\Progra II\DatabaseAccess\DatabaseAccess\DatabaseAccess\obj\Debug\netcoreapp3.0\DatabaseAccess.AssemblyInfoInputs.cache
+D:\Progra II\DatabaseAccess\DatabaseAccess\DatabaseAccess\obj\Debug\netcoreapp3.0\DatabaseAccess.AssemblyInfo.cs
